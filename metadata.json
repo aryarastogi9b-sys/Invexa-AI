@@ -1,0 +1,6 @@
+{
+  "name": "Invexa AI",
+  "description": "Intelligent Invoice Verification & Approval System combining AI document extraction with deterministic financial validation and human review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
